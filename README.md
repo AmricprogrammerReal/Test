@@ -1,3 +1,2 @@
 # free command-line
-this free command-line text-editor can make very file
-open-sourcecode also
+THIS IS FOR TEST PURPOSE.THIS MADE IN C AND THE SOURCE FILE IS IN THE ZIP FILE.THIS CAN MAKE LARGE FILE.I THINK SO (<>-<>).
